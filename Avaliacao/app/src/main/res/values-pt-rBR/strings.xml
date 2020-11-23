@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaliacao</string>
+    <string name="choose">Escolha uma opção abaixo</string>
+    <string name="calculate">Calculadora</string>
+    <string name="random">Aleatório</string>
+    <string name="number1">Adicione um número</string>
+    <string name="number2">Adicione outro número</string>
+    <string name="buttonCalculatorResult">Resultado</string>
+    <string name="divideByZero">Não é possível dividir</string>
+    <string name="chooseCalculator">Escolha uma opção</string>
+
+    <string-array name="option_calculator">
+    <item>Escolha</item>
+    <item>Multiplicação</item>
+    <item>Divisão</item>
+    <item>Adição</item>
+    <item>Subtração</item>
+</string-array>
+    <string name="noOptionChoseCalculator">Por favor, escolha uma opção</string>
+    <string name="generate_random">Gerar Randomico</string>
+    <string name="about">Sobre nós</string>
+</resources>

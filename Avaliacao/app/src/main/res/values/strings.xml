@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Avaliacao</string>
+    <string name="choose">Choose an option below</string>
+    <string name="calculate">Calculator</string>
+    <string name="random">Randomic</string>
+    <string name="number1">Add 1 number</string>
+    <string name="number2">Add another number</string>
+    <string name="buttonCalculatorResult">Result</string>
+    <string name="divideByZero">"Can't Divide by 0</string>
+    <string name="chooseCalculator">Choose an option</string>
+    <string name="noOptionChoseCalculator">Please choose a option</string>
+    <string name="name1" translatable="false">Janine Tavares</string>
+    <string name="name2" translatable="false">Bruno Lerner</string>
+    <string name="email1" translatable="false">janine.h201@gmail.com</string>
+    <string name="email2" translatable="false">brunolerner0808@hotmail.com</string>
+
+
+
+    <string-array name="option_calculator">
+        <item>Choose</item>
+        <item>Multiplication</item>
+        <item>Division</item>
+        <item>Addition</item>
+        <item>Subtraction</item>
+    </string-array>
+    <string name="generate_random">generate_random</string>
+    <string name="about">About</string>
+</resources>

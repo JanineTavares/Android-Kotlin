@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">Avalicao_pos_prova</string>
+    <string name="wrongNumber">Type a number between 1 and 12</string>
+    <string name="chose_january">You chose January</string>
+    <string name="chose_february">You chose february</string>
+    <string name="chose_march">You chose march</string>
+    <string name="chose_april">You chose april</string>
+    <string name="chose_may">You chose may</string>
+    <string name="chose_june">You chose june</string>
+    <string name="chose_july">You chose july</string>
+    <string name="chose_august">You chose august</string>
+    <string name="chose_september">You chose september</string>
+    <string name="chose_october">You chose october</string>
+    <string name="chose_november">You chose november</string>
+    <string name="chose_december">You chose december</string>
+    <string name="insert_number">Insert a number in the box below</string>
+    <string name="box_number">Type a number here</string>
+    <string name="see_result">Result</string>
+    <string name="number_not_inserted">Insert a number, dumbass</string>
+</resources>

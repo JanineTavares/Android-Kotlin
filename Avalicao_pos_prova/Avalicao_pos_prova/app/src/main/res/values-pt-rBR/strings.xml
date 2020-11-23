@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avalicao_pos_prova</string>
+    <string name="wrongNumber">Digite um numero entre 1 e 12</string>
+    <string name="chose_january">Você escolheu janeiro</string>
+    <string name="chose_february">Você escolheu fevereiro</string>
+    <string name="chose_march">Você escolheu março</string>
+    <string name="chose_april">Você escolheu abril</string>
+    <string name="chose_may">Você escolheu maio</string>
+    <string name="chose_june">Você escolheu junho</string>
+    <string name="chose_july">Você escolheu julho</string>
+    <string name="chose_august">Você escolheu agosto</string>
+    <string name="chose_september">Você escolheu setembro</string>
+    <string name="chose_october">Você escolheu outubro</string>
+    <string name="chose_november">Você escolheu novembro</string>
+    <string name="chose_december">Você escolheu dezembro</string>
+    <string name="insert_number">Insira um numero na caixa abaixo</string>
+    <string name="box_number">Digite um número aqui</string>
+    <string name="see_result">Resultado</string>
+    <string name="number_not_inserted">Digite um número, anta</string>
+</resources>
